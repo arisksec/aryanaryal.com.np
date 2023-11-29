@@ -3,6 +3,7 @@ var twitter = "https://www.twitter.com/arisksec/";
 var password = "Return";
 var github = "https://github.com/arisksec/";
 var email = 'mailto:me@arisksec.com';
+var blog = "https://blog.aryanaryal.com.np";
 
 whois = [
   "<br>",
