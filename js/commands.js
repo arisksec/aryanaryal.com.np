@@ -33,7 +33,7 @@ social = [
   
   ' Twitter      <a href="' + twitter + '" target="_blank">ariksec' + '</a>',
   ' Github       <a href="' + github + '" target="_blank"> ariksec' + "</a>",
-  ' Blog       <a href="' + blog + '" target="_blank">  ariksec' + "</a>",
+  ' Blog         <a href="' + blog + '" target="_blank">ariksec' + "</a>",
   "<br>"
 ];
 
