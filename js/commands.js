@@ -65,7 +65,7 @@ help = [
 ];
 
 banner = [
-  '<span class="index">ARYANARYAN (ARISKSEC) Not A Corporation. All rights reserved.</span>',
+  '<span class="index">ARYANARYAL (ARISKSEC) Not A Corporation. All rights reserved.</span>',
   "						                                                     ",                                        
   "   5#:                                                                                           ",
   "   JG.       ??                                                                                  ",
