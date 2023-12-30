@@ -1,2 +1,6 @@
 
-# This is the official personal web terminal of Aryan'arisksec'Aryal.
+
+
+# Source code for my personal blog
+
+# Available at https://aryanaryal.com.np
